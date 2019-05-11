@@ -1,10 +1,10 @@
-int** threeSum(int* nums, int numsSize, int* returnSize, int** returnColumnSizes){
-    
+int** threeSum(int* nums, int numsSize, int* returnSize, int** returnColumnSizes)
+{    
     int target = 0, newTarget;
     int i, j, k;
     int ptr_ra = -1;
     void quickSort(int* nums,int first,int end);
-	quickSort(nums,0,numsSize-1); //ÅÅĞò
+    quickSort(nums,0,numsSize-1); //æ’åº
 
     int **returnArray = (int **)malloc(sizeof(int *) * 17000);
     *returnColumnSizes = (int *)malloc(sizeof(int) * 17000);
@@ -13,7 +13,7 @@ int** threeSum(int* nums, int numsSize, int* returnSize, int** returnColumnSizes
     {
         if (i == 0 || (i > 0) && (nums[i] != nums[i-1]))
         {        
-            //Ë«Ö¸Õë
+            //åŒæŒ‡é’ˆ
             j = i + 1;
             k = numsSize - 1;
             newTarget = target - nums[i];
@@ -27,22 +27,22 @@ int** threeSum(int* nums, int numsSize, int* returnSize, int** returnColumnSizes
                     returnArray[ptr_ra][2] = nums[k];
                     (*returnColumnSizes)[ptr_ra] = 3;
                     while (j < k && nums[j] == nums[j+1]) 
-						j++;
+			j++;
                     j++;
                     while (j < k && nums[k] == nums[k-1])
-						k--; 
+			k--; 
                     k--;
                 }
                 else if (nums[j] + nums[k] < newTarget)
                 {
                     while (j < k && nums[j] == nums[j+1])
-						j++;
+			j++;
                     j++;
                 }
                 else if (nums[j] + nums[k] > newTarget)
                 {
                     while (j < k &&  nums[k] == nums[k-1])
-						k--;
+			k--;
                     k--;
                 }
             }
