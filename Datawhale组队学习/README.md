@@ -17,13 +17,13 @@
  - 实现两个有序数组合并为一个有序数组
  - 学习哈希表思想（选做），并完成leetcode上的两数之和(1)及Happy Number(202)！(要求全部用哈希思想实现！)（注意：在第四天会进行继续学习）
 
-**练习：**
+**练习（Leetcode）：**
 
 1. Three Sum（求三数之和）
 
 2. Majority Element（求众数）
 
-3. Missing Positive（求缺失的第一个正数）
+3. Missing Positive（求缺失的第一个正数）（选做）
 
 **【链表】**
 
@@ -32,7 +32,7 @@
  - 实现两个有序的链表合并为一个有序链表
  - 实现求链表的中间结点
 
-**练习：**
+**练习（Leetcode）：**
 
 1. Linked List Cycle I（环形链表）
 
