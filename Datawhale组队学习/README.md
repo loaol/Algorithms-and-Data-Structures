@@ -19,11 +19,11 @@
 
 **练习（Leetcode）：**
 
-1. Three Sum（求三数之和）
+1. [Three Sum](https://leetcode-cn.com/problems/3sum/)（求三数之和）
 
-2. Majority Element（求众数）
+2. [Majority Element](https://leetcode-cn.com/problems/majority-element/)（求众数）
 
-3. Missing Positive（求缺失的第一个正数）（选做）
+3. [Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)（求缺失的第一个正数）（选做）
 
 **【链表】**
 
@@ -34,6 +34,50 @@
 
 **练习（Leetcode）：**
 
-1. Linked List Cycle I（环形链表）
+1. [Linked List Cycle I](https://leetcode-cn.com/problems/linked-list-cycle/)（环形链表）
 
-2. Merge k Sorted Lists（合并 k 个排序链表）
+2. [Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)（合并 k 个排序链表）
+
+## Task2（3天）
+
+**【栈】**
+
+ - 用数组实现一个顺序栈
+
+ - 用链表实现一个链式栈
+
+ - 编程模拟实现一个浏览器的前进、后退功能
+
+**练习（Leetcode）：**
+
+1. [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)（有效的括号）
+
+2. [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/)（最长有效的括号）[作为可选]
+
+3. [Evaluate Reverse Polish Notatio](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)（逆波兰表达式求值）
+
+**【队列】**
+
+ - 用数组实现一个顺序队列
+
+ - 用链表实现一个链式队列
+
+ - 实现一个循环队列
+
+**练习（Leetcode）：**
+
+1. [Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque/)（设计一个双端队列）
+
+2. [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)（滑动窗口最大值）
+
+**【递归】**
+
+ - 编程实现斐波那契数列求值 f(n)=f(n-1)+f(n-2)
+
+ - 编程实现求阶乘 n!
+
+ - 编程实现一组数据集合的全排列
+
+**练习（Leetcode）：**
+
+1. [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)（爬楼梯）
