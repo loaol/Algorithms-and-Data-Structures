@@ -92,7 +92,7 @@
 
 **练习（Leetcode）：**
 
-1. [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)
+1. [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)（滑动窗口最大值）
 
 **【二分查找】**
 
@@ -102,7 +102,7 @@
 
 **练习（Leetcode）：**
 
-1. [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
+1. [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)（x 的平方根）
 
 ## Task4（2天）
 
@@ -114,7 +114,7 @@
 
 **练习（Leetcode）：**
 
-1. [Two Sum](https://leetcode-cn.com/problems/two-sum/)
+1. [Two Sum](https://leetcode-cn.com/problems/two-sum/)（两数之和）
 
 **【字符串】**
 
@@ -124,8 +124,8 @@
 
 **练习（Leetcode）：
 
-1. [Reverse String](https://leetcode-cn.com/problems/reverse-string/)
+1. [Reverse String](https://leetcode-cn.com/problems/reverse-string/)（反转字符串）
 
-2. [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+2. [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)（翻转字符串里的单词）
 
-3. [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)（可选）
+3. [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)（字符串转换整数 (atoi)）[作为可选]
