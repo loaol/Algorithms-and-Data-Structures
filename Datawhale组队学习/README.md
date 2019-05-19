@@ -103,3 +103,29 @@
 **练习（Leetcode）：**
 
 1. [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
+
+## Task4（2天）
+
+**【散列表（哈希表）】**
+
+ - 实现一个基于链表法解决冲突问题的散列表
+
+ - 实现一个 LRU 缓存淘汰算法
+
+**练习（Leetcode）：**
+
+1. [Two Sum](https://leetcode-cn.com/problems/two-sum/)
+
+**【字符串】**
+
+ - 实现一个字符集，只包含 a～z 这 26 个英文字母的 Trie 树
+
+ - 实现朴素的字符串匹配算法
+
+**练习（Leetcode）：
+
+1. [Reverse String](https://leetcode-cn.com/problems/reverse-string/)
+
+2. [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+
+3. [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)（可选）
