@@ -122,7 +122,7 @@
 
  - 实现朴素的字符串匹配算法
 
-**练习（Leetcode）：
+**练习（Leetcode）：**
 
 1. [Reverse String](https://leetcode-cn.com/problems/reverse-string/)（反转字符串）
 
