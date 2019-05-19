@@ -1,4 +1,4 @@
-### Algorithms
+### Algorithms and Data Stuctures
 ------
 When learning a skill, the best way is to practice and record the problems and solutions we have encountered in practice. The process can be very boring, but only then can we make progress continually.
 
