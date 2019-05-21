@@ -129,3 +129,37 @@
 2. [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)（翻转字符串里的单词）
 
 3. [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)（字符串转换整数 (atoi)）[作为可选]
+
+## Task5（2天）
+
+**【二叉树】**
+
+ - 实现一个二叉查找树，并且支持插入、删除、查找操作
+
+ - 实现查找二叉查找树中某个节点的后继、前驱节点
+
+ - 实现二叉树前、中、后序以及按层遍历
+
+**练习（Leetcode）：**
+
+1. [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)（翻转二叉树）
+
+2. [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)（二叉树的最大深度）
+
+3. [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)（验证二叉查找树）[作为可选]
+
+**【堆】**
+
+ - 实现一个小顶堆、大顶堆、优先级队列
+
+ - 实现堆排序
+
+ - 利用优先级队列合并 K 个有序数组
+
+ - 求一组动态数据集合的最大 Top K
+
+ - （选做）第三天堆排序
+
+**练习（Leetcode）：**
+
+1. [Path Sum](https://leetcode-cn.com/problems/path-sum/)（路径总和）
