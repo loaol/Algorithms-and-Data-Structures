@@ -23,7 +23,7 @@
 
 2. [Majority Element](https://leetcode-cn.com/problems/majority-element/)（求众数）
 
-3. [Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)（求缺失的第一个正数）（选做）
+3. [Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)（求缺失的第一个正数）[作为可选]
 
 **【链表】**
 
@@ -158,7 +158,7 @@
 
  - 求一组动态数据集合的最大 Top K
 
- - （选做）第三天堆排序
+ - 第三天堆排序（选做）
 
 **练习（Leetcode）：**
 
