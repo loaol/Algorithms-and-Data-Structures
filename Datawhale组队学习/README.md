@@ -181,3 +181,49 @@
 1. [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/description/)（岛屿的个数）
 
 2. [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/)（有效的数独）
+
+## Task7（2天）
+
+**【递归】**
+
+ - 完成LeetCode [70. Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)
+
+**【回溯】**
+
+ - 利用回溯算法求解八皇后问题
+
+ - 利用回溯算法求解 0-1 背包问题
+
+**【分治】**
+
+ - 利用分治算法求一组数据的逆序对个数
+
+**【动态规划】**
+
+ - 0-1 背包问题
+
+ - 最小路径和（详细可看 Minimum Path Sum）
+
+ - 编程实现莱文斯坦最短编辑距离
+
+ - 编程实现查找两个字符串的最长公共子序列
+
+ - 编程实现一个数据序列的最长递增子序列
+
+**练习（Leetcode）：**
+
+1. 实战递归：完成Leetcode上的Letter Combinations of a Phone Number(17)及permutations(46) （保留往期第六天任务）
+
+2. 实战DP：完成0-1背包问题实现(自我实现)及Leetcode上Palindrome Partitioning II(132) （保留往期第七天任务）
+
+3. [Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)（正则表达式匹配）
+
+4. [Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)（最小路径和）
+
+5. [Coin Change](https://leetcode-cn.com/problems/coin-change/)（零钱兑换）[作为可选]
+
+6. [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)（买卖股票的最佳时机）[作为可选]
+
+7. [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)（乘积最大子序列）[作为可选]
+
+8. [Triangle](https://leetcode-cn.com/problems/triangle/)（三角形最小路径和）[作为可选]
