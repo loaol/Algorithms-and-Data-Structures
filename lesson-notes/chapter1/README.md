@@ -38,7 +38,7 @@
  
    数据结构的形式定义为：数据结构是一个二元组
    
-   $$Data_Structure=(D,S)$$
+   Data_Structure=(D,S)
    
    其中：D 是数据元素的有限集，S 是 D 上关系的有限集
  
